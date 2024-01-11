@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sudhakar0315
 - 👀 I’m interested in frontend development 
-- 🌱 I’m currently learning python, html, css, js, react
+- 🌱 I’m currently learning python, html, css, js
 - 💞️ I’m looking to collaborate on .
 - 📫 How to reach me chinnasudhakar56@gmail.com 
 
